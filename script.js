@@ -1,1 +1,1 @@
-console.log('Hello!');
+console.log('Desculpe pelo amadorismo, mas prometo me esforçar.');

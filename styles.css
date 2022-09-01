@@ -41,6 +41,10 @@ main {
 }
 
 h1 {
+  color: burlywood;
   font-weight: bold;
-  font-size: 1.5rem;
+  font-size: 2.0rem;
+}
+h1 {
+  
 }
